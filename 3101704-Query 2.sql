@@ -1,2 +1,2 @@
 USE sakila;
-SELECT * FROM a
+SELECT * FROM actor;
