@@ -1,1 +1,1 @@
-SELECT actor_id,first_name
+SELECT actor_id,first_name FROM actor
