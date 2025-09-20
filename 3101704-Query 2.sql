@@ -1,1 +1,2 @@
-USE sak
+USE sakila;
+SELECT * FROM a
